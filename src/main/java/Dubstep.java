@@ -29,7 +29,10 @@
  */
 
 public class Dubstep {
-    public static String SongDecoder(String song) {
+
+    private static final String WUB = "WUB";
+
+    public static String songDecoder(String song) {
         return null;
     }
 }
